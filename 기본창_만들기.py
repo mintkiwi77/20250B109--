@@ -43,4 +43,4 @@ text_area.pack(expand=True, fill='both')
 # --- 메인 루프 시작 ---
 # 6. 창이 화면에 나타나고 사용자 입력을 기다리도록 함
 window.mainloop()
-#
+#ㅁ
